@@ -19,11 +19,11 @@ locale: "en-US"
 title: "Ren Xiaoming's Blog"
 title_separator: "-"
 name: "renxiaoming"
-description: "All I'm saying is inside, I had the element of surprise."
+description: "热衷算法，电路，木工，生物，更爱生活"
 url: "https://lezasantaizi.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "lezasantaizi/lezasantaizi.github.io"
-teaser: # "/images/bio-photo.jpg"
+teaser: # "/images/ming-photo.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -34,7 +34,7 @@ comments:
     oauth_secret: "8fdcc35d602a4cd0587ac9bbc63f0dc1dd098a49"
     owner: "lezasantaizi"
   disqus:
-    shortname: "hijiangtao" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "lezasantaizi" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
