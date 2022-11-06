@@ -16,23 +16,23 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Joe's Blog"
+title: "Ren Xiaoming's Blog"
 title_separator: "-"
-name: "hijiangtao"
+name: "renxiaoming"
 description: "All I'm saying is inside, I had the element of surprise."
-url: "https://hijiangtao.github.io" # the base hostname & protocol for your site e.g.
+url: "https://lezasantaizi.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "hijiangtao/hijiangtao.github.io"
+repository: "lezasantaizi/lezasantaizi.github.io"
 teaser: # "/images/bio-photo.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
   provider: "gitment" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   gitment:
-    repo: "hijiangtao.github.io.comments"
+    repo: "lezasantaizi.github.io.comments"
     oauth_id: "202af368def76723e6c5"
     oauth_secret: "8fdcc35d602a4cd0587ac9bbc63f0dc1dd098a49"
-    owner: "hijiangtao"
+    owner: "lezasantaizi"
   disqus:
     shortname: "hijiangtao" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name: "hijiangtao"
+  name: "lezasantaizi"
   avatar: "images/bio-photo.jpg"
   bio: "VIS and FE."
   location: "Beijing, China"
@@ -114,21 +114,19 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "hijiangtao"
+  github: "lezasantaizi"
   gitlab:
   google_plus:
   keybase:
   instagram:
   lastfm:
-  linkedin: "hijiangtao"
+  linkedin: "lezasantaizi"
   pinterest:
   soundcloud:
   stackoverflow: # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam: # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr:
-  twitter: "hijiangtao"
   vine:
-  weibo: "hijiangtao"
   xing:
   youtube: # "https://youtube.com/c/MichaelRoseDesign"
   cv: "https://hijiangtao.js.org/"
