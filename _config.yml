@@ -19,7 +19,7 @@ locale: "en-US"
 title: "Ren Xiaoming's Blog"
 title_separator: "-"
 name: "renxiaoming"
-description: "热衷算法，电路，木工，生物，更爱生活"
+description: "Doing what you like is freedom. Liking ... is happiness."
 url: "https://lezasantaizi.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "lezasantaizi/lezasantaizi.github.io"
