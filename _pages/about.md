@@ -6,10 +6,6 @@ title: "About"
 
 {% include base_path %}
 
-Tao Jiang, Graduated from UCAS (2015.09-2018.06) with programming skills in diverse languages and experience in industrial and research settings. Web development engineer at Alibaba Group. 
+Ren Xiaoming, Graduated from USTC (2010.09-2013.06).
 
-Location: Wangjing District, Beijing, China
-
-Links
-
-* [醉牛前端](https://f2er.club/)
+Location: Chaoyang District, Beijing, China
